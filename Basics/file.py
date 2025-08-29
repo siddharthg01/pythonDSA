@@ -1,0 +1,5 @@
+f1=open('sid.txt','a',)
+write=f1.write("\n Reply:Ok you can fuck me hard!!!!!!")
+f1=open('sid.txt','r')
+read=f1.read()
+print(read)
